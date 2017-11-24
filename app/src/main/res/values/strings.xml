@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Drink Adviser</string>
+    <string name="find_drink">Find Drink !</string>
+    <string name="brands">No Drinks Selected</string>
+    <string-array name="drink_colors">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Orage</item>
+        <item>Yellow</item>
+    </string-array>
+
+</resources>
